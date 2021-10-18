@@ -6,7 +6,9 @@ Authors@R:
            comment = c(ORCID = "0000-0003-4526-8791"))
 Description: The full ORDS compliant data set of open repair data. 
       It is the combination of the datasets contributed by partner organisations
-      of the Open Repair Alliance (ORA). Last updated: 22nd Feb 2021.
+      of the Open Repair Alliance (ORA). Last updated: 22nd Feb 2021. 
+      The packageds contains also via quests enriched datasets on batteries,
+      printer, mobiles and tablets.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
