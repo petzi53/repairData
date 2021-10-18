@@ -1,12 +1,15 @@
 Package: repairData
-Title: What the Package Does (One Line, Title Case)
+Title: Open Repair Alliance datasets 2021
 Version: 0.0.0.9000
 Authors@R: 
     person("Peter", "Baumgartner", , "petzi53@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0003-4526-8791"))
-Description: What the package does (one paragraph).
+Description: The full ORDS compliant data set of open repair data. 
+      It is the combination of the datasets contributed by partner organisations
+      of the Open Repair Alliance (ORA). Last updated: 22nd Feb 2021.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.2
+Depends: R (>= 3.5.0)
