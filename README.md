@@ -6,13 +6,13 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-Data from the website of the [Open Repair
+Data is from the website of the [Open Repair
 Alliance](https://openrepair.org/open-data/downloads/). The structure of
 the data follows the technical documentation of the [Open Repair Data
 Standard](https://standard.openrepair.org/) (ORDS Version 0.21).
 
-Besides the complete dataset `repairs` with 48,669 entries I have also
-added four compiled datasets on `batteries`, `mobiles`, `printers` and
+Besides the complete dataset `repairs` with 48,669 entries, I have also
+added four compiled datasets on `batteries`, `mobiles`, `printers`, and
 `tablets` with additional information about fault types.
 
 ## Aims of `repairData`
@@ -22,29 +22,29 @@ The goal of the `repairData` package is
 -   to create a joint approach to documenting successes and challenges
     with post-warranty repairs
 -   to promote it as a standard available to other community repair
-    networks, and in the future to commercial repairers and others
+    networks and in the future to commercial repairers and others
     collecting repair data
 -   to enable coalition members and others to use the data from our
-    joint work to produce insights, with the objective of demanding more
-    repairable products, improved support and access to better repair
-    services
+    joint work to produce insights, intending to demand more repairable
+    products, improved support, and access to better repair services
 -   to explore jointly additional information we can all collect to help
-    make a stronger case for increased repairability. [Open Repair Data
-    Standard](https://standard.openrepair.org/about.html)
+    make a stronger case for increased repairability. (Slightly changed
+    from [Open Repair Data
+    Standard](https://standard.openrepair.org/about.html).)
 
-Eventually these datasets should help to extend the reach to commercial
+Eventually, these datasets should help to extend the reach to commercial
 repairers and others collecting repair data. This data will be used to
 [tell stories](https://openrepair.org/open-data/insights/) about the
-positive impacts of repair, and to inform advocacy. Together, we can
-make a stronger case for more easily repairable devices.
+positive impacts of repair and to inform advocacy. Together, we can make
+a stronger case for more easily repairable devices.
 
 ## Data specifications
 
-The following table (`R data types`) stems from the [documentation of
-the Open Repair Data
+The following table stems from the [documentation of the Open Repair
+Data
 Standard](https://standard.openrepair.org/standard.html#field-reference)
-(ORDS Version 0.21). The value of the last column of the following table
-(`R data types`) is set by me according to the `Type` description.
+(ORDS Version 0.21). (In the last column, I report my changes to the
+variable type of some columns according to the ORDS `Type` description.)
 
 | Title               | Field name                         | Type                                                                                                            | R Data Type |
 |---------------------|------------------------------------|-----------------------------------------------------------------------------------------------------------------|-------------|
