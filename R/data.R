@@ -179,6 +179,6 @@
 #'   \item{event_date}{Event date. The date of the repair event that the repair took place at.}
 #'   \item{problem}{Problem description.}
 #'   }
-#' @source \url{https://openrepair.org/open-data/insights/mobiles}
+#' @source \url{https://github.com/openrepair/data/tree/master/quests/mobiles}
 "mobiles"
 
