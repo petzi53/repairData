@@ -18,7 +18,7 @@ Result of an online quest where volunteer participants looked at tablet repair a
 }
 \details{
 Dataset of tablet repair records from the Open Repair Alliance in ORDS format style with added \code{fault_type} values.
-Results of \href{https://openrepair.org/open-data/insights/tablets}{Open Repair Data quest TabiCat"}.
+Results of \href{https://openrepair.org/open-data/insights/tablets/}{Open Repair Data quest TabiCat"}.
 
 \describe{
 \item{id_ords}{ID. Unique identifier from the partner organisation.}

@@ -18,7 +18,7 @@ Result of an online quest where volunteer participants looked at printer repair 
 }
 \details{
 Dataset of printer repair records from the Open Repair Alliance in ORDS format style with added \code{fault_type} values.
-Results of \href{https://openrepair.org/open-data/insights/printers}{Open Repair Data quest PrintCat}.
+Results of \href{https://openrepair.org/open-data/insights/printers/}{Open Repair Data quest PrintCat}.
 \describe{
 \item{id_ords}{ID. Unique identifier from the partner organisation.}
 \item{data_provider}{Data provider. Option from ORDS codelist. Name of partner organisation.}

@@ -28,7 +28,7 @@ The dataset is aggregated from five different sets:
 \item \href{https://anstiftung.de/}{Anstiftung}: Community repair data collected in the
 \href{https://github.com/anstiftung/mapped-repair-events/}{Reparatur-Initiativen platform} from June 2018 onwards.
 Product categories mapped to working set of ORDS categories – these may be remapped in future.
-\item \href{http://fixitclinic.blogspot.com/}{Fixit Clinic}:
+\item \href{https://fixitclinic.blogspot.com/}{Fixit Clinic}:
 Data collected via the \href{https://fixitclinic.blogspot.com/p/item-re.html}{Broken Item Report}
 form as part of Fixit Clinic’s community
 repair events. Product categories mapped to working set of ORDS categories – these may be remapped in future.
@@ -36,7 +36,7 @@ repair events. Product categories mapped to working set of ORDS categories – t
 \href{https://repairmonitor.org/en/node/61}{Repair Monitor} platform.
 \item \href{https://repaircafewales.org/}{Repair Cafe Wales}
 \item \href{https://therestartproject.org/}{The Restart Project}: Data gathered at community repair events
-and recorded in the Fixometer module of \href{http://restarters.net}{Restarters.net}.
+and recorded in the Fixometer module of \href{https://restarters.net}{Restarters.net}.
 }
 
 From the ORDS documentation reference, the columns include:

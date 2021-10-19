@@ -18,7 +18,7 @@ Categorizing repair attempts on battery-powered devices recorded at community ev
 }
 \details{
 Dataset of battery-powered device repair records from the Open Repair Alliance in ORDS format style with added \code{step_barrier} values.
-Results of \href{https://openrepair.org/open-data/insights/batteries}{Open Repair Data quest BattCat}.
+Results of \href{https://openrepair.org/open-data/insights/batteries/}{Open Repair Data quest BattCat}.
 \describe{
 \item{id_ords}{ID. Unique identifier from the partner organisation.}
 \item{data_provider}{Data provider. Option from ORDS codelist. Name of partner organisation.}

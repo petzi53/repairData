@@ -18,7 +18,7 @@ Result of two online quests where volunteer participants looked at about 1900 mo
 }
 \details{
 Dataset of printer repair records from the Open Repair Alliance in ORDS format style with added \code{fault_type} values.
-Results of \href{https://openrepair.org/open-data/insights/printers}{Open Repair Data quest PrintCat}.
+Results of \href{https://openrepair.org/open-data/insights/mobiles/}{Results of Open Repair Data quests MobiFix and MobiFix:ORA}.
 
 There are some differences in the structure of this data and any of the ORDS format versions (0.1 and 0.2).
 The records involved span different ORDS versions and a handful have not yet been exported.
@@ -29,7 +29,7 @@ The records involved span different ORDS versions and a handful have not yet bee
 \item The field group_identifier is irrelevent in this analysis and thus has been omitted from the dataset
 }
 
-\href{https://talk.restarters.net/mobifix/status}{MobiFix} was held in July 2020 using data from ORA partner The Restart Project.
+\href{https://restarters.net/mobifix/status}{MobiFix} was held in July 2020 using data from ORA partner The Restart Project.
 \href{https://restarters.net/mobifixora/status}{MobiFix:ORA} was held in March 2021 using data from ORA partners anstiftung and Repair Café International.
 \describe{
 \item{id}{ID.}

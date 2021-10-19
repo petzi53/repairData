@@ -16,7 +16,7 @@
 #' \href{https://github.com/anstiftung/mapped-repair-events/}{Reparatur-Initiativen platform} from June 2018 onwards.
 #' Product categories mapped to working set of ORDS categories – these may be remapped in future.
 #'
-#' 2. \href{http://fixitclinic.blogspot.com/}{Fixit Clinic}:
+#' 2. \href{https://fixitclinic.blogspot.com/}{Fixit Clinic}:
 #' Data collected via the \href{https://fixitclinic.blogspot.com/p/item-re.html}{Broken Item Report}
 #' form as part of Fixit Clinic’s community
 #' repair events. Product categories mapped to working set of ORDS categories – these may be remapped in future.
@@ -27,7 +27,7 @@
 #' 4. \href{https://repaircafewales.org/}{Repair Cafe Wales}
 #'
 #' 5. \href{https://therestartproject.org/}{The Restart Project}: Data gathered at community repair events
-#' and recorded in the Fixometer module of \href{http://restarters.net}{Restarters.net}.
+#' and recorded in the Fixometer module of \href{https://restarters.net}{Restarters.net}.
 #'
 #' From the ORDS documentation reference, the columns include:
 #' \describe{
@@ -62,7 +62,7 @@
 #'
 #' @details
 #' Dataset of battery-powered device repair records from the Open Repair Alliance in ORDS format style with added `step_barrier` values.
-#' Results of \href{https://openrepair.org/open-data/insights/batteries}{Open Repair Data quest BattCat}.
+#' Results of \href{https://openrepair.org/open-data/insights/batteries/}{Open Repair Data quest BattCat}.
 #' \describe{
 #'   \item{id_ords}{ID. Unique identifier from the partner organisation.}
 #'   \item{data_provider}{Data provider. Option from ORDS codelist. Name of partner organisation.}
@@ -91,7 +91,7 @@
 #' Result of an online quest where volunteer participants looked at printer repair attempts recorded at community events.
 #' @details
 #' Dataset of printer repair records from the Open Repair Alliance in ORDS format style with added `fault_type` values.
-#' Results of \href{https://openrepair.org/open-data/insights/printers}{Open Repair Data quest PrintCat}.
+#' Results of \href{https://openrepair.org/open-data/insights/printers/}{Open Repair Data quest PrintCat}.
 #' \describe{
 #'   \item{id_ords}{ID. Unique identifier from the partner organisation.}
 #'   \item{data_provider}{Data provider. Option from ORDS codelist. Name of partner organisation.}
@@ -120,7 +120,7 @@
 #' Result of an online quest where volunteer participants looked at tablet repair attempts recorded at community events.
 #' @details
 #' Dataset of tablet repair records from the Open Repair Alliance in ORDS format style with added `fault_type` values.
-#' Results of \href{https://openrepair.org/open-data/insights/tablets}{Open Repair Data quest TabiCat"}.
+#' Results of \href{https://openrepair.org/open-data/insights/tablets/}{Open Repair Data quest TabiCat"}.
 #'
 #' \describe{
 #'   \item{id_ords}{ID. Unique identifier from the partner organisation.}
@@ -151,7 +151,7 @@
 #' Result of two online quests where volunteer participants looked at about 1900 mobile phone repair attempts recorded at community events.
 #' @details
 #' Dataset of printer repair records from the Open Repair Alliance in ORDS format style with added `fault_type` values.
-#' Results of \href{https://openrepair.org/open-data/insights/printers}{Open Repair Data quest PrintCat}.
+#' Results of \href{https://openrepair.org/open-data/insights/mobiles/}{Results of Open Repair Data quests MobiFix and MobiFix:ORA}.
 #'
 #' There are some differences in the structure of this data and any of the ORDS format versions (0.1 and 0.2).
 #' The records involved span different ORDS versions and a handful have not yet been exported.
@@ -161,7 +161,7 @@
 #' 3. Age is an important metric in repair policy, therefore it was derived from and replaced the year_of_manufacture field
 #' 4. The field group_identifier is irrelevent in this analysis and thus has been omitted from the dataset
 #'
-#' \href{https://talk.restarters.net/mobifix/status}{MobiFix} was held in July 2020 using data from ORA partner The Restart Project.
+#' \href{https://restarters.net/mobifix/status}{MobiFix} was held in July 2020 using data from ORA partner The Restart Project.
 #' \href{https://restarters.net/mobifixora/status}{MobiFix:ORA} was held in March 2021 using data from ORA partners anstiftung and Repair Café International.
 #' \describe{
 #'   \item{id}{ID.}
