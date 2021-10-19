@@ -56,3 +56,4 @@ po/*~
 
 # HTML files produced via knitr & YAML: output::html_document
 *.html
+docs
