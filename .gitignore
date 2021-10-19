@@ -51,5 +51,4 @@ po/*~
 
 # End of https://www.toptal.com/developers/gitignore/api/r
 
-# HTML files produced via knitr & YAML: output::html_document
-*.html
+
