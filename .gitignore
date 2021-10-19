@@ -42,9 +42,6 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
-# pkgdown site
-docs/
-
 # translation temp files
 po/*~
 
@@ -56,4 +53,3 @@ po/*~
 
 # HTML files produced via knitr & YAML: output::html_document
 *.html
-docs
