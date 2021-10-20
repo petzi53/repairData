@@ -8,7 +8,7 @@
 An object of class \code{spec_tbl_df} (inherits from \code{tbl_df}, \code{tbl}, \code{data.frame}) with 1916 rows and 11 columns.
 }
 \source{
-\url{https://openrepair.org/open-data/insights/mobiles}
+\url{https://github.com/openrepair/data/tree/master/quests/mobiles}
 }
 \usage{
 mobiles
