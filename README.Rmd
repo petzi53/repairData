@@ -16,6 +16,18 @@ knitr::opts_chunk$set(
 # repairData
 
 <!-- badges: start -->
+[![CRAN status](https://www.r-pkg.org/badges/version/repairData)](https://cran.r-project.org/package=repairData)
+[![Lifecycle:
+stable](https://img.shields.io/badge/lifecycle-stable-green.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
+
+<!-- 
+[![R build status](https://github.com/petzi53/repairData/workflows/R-CMD-check/badge.svg)](https://github.com/petzi53/repairData/actions)
+start -->
+
+<!-- 
+[![CRAN RStudio mirror downloads](http://cranlogs.r-pkg.org/badges/repairData)](https://cran.r-project.org/package=repairData)
+-->
+
 <!-- badges: end -->
 
 Data is from the website of the [Open Repair Alliance](https://openrepair.org/open-data/downloads/). The structure of the data follows the technical documentation of the [Open Repair Data Standard](https://standard.openrepair.org/) (ORDS Version 0.21). 
