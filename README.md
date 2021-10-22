@@ -10,11 +10,12 @@ status](https://www.r-pkg.org/badges/version/repairData)](https://cran.r-project
 
 [![Lifecycle:
 stable](https://img.shields.io/badge/lifecycle-stable-green.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
-[![R build
-status](https://github.com/petzi53/repairData/workflows/R-CMD-check/badge.svg)](https://github.com/petzi53/repairData/actions)
-[![CRAN RStudio mirror
-downloads](http://cranlogs.r-pkg.org/badges/repairData)](https://cran.r-project.org/package=repairData)
+
 [![R-CMD-check](https://github.com/petzi53/repairData/workflows/R-CMD-check/badge.svg)](https://github.com/petzi53/repairData/actions)
+
+<!-- not yet active, has 0 downloads
+[![CRAN RStudio mirror downloads](http://cranlogs.r-pkg.org/badges/repairData)](https://cran.r-project.org/package=repairData)
+-->
 <!-- badges: end -->
 
 Data is from the website of the [Open Repair
